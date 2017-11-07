@@ -6,7 +6,7 @@ This page aims at listing algorithms related to the following scenario:
 
 > A user queries a service provider (through available APIs),  and tries to infer information about the algorithms in use for providing the results of those queries.
 
-Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`, `reverse engineering`, `black-box`.
+Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`, `reverse engineering`, `black-box`, `algorithmic accountability`.
 
 ## List of algorithms
 
