@@ -1,8 +1,8 @@
-# A list of algorithms for getting insights of remote (black-box) services.
+# A reading list of algorithms for getting insights of remote (black-box) services.
 
 ----------
 
-This page aims at listing algorithms related to the following scenario:
+This page aims at listing algorithms (with a short review) related to the following scenario:
 
 > A user queries a service provider (through available APIs),  and tries to infer information about the algorithms in use for providing the results of those queries.
 
