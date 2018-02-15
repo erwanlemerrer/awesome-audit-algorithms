@@ -25,6 +25,7 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [ Membership Inference Attacks Against Machine Learning Models ](http://ieeexplore.ieee.org/document/7958568/) | Symposium on Security and Privacy (2017) | Given  a  machine  learning model and a record, determine whether this record was used as part of the model’s training dataset or not |  | Tested using Amazon ML and Google Prediction API |
 | [ Adversarial Frontier Stitching for Remote Neural Network Watermarking ](https://arxiv.org/abs/1711.01894) | arXiv (2017) | Check if a remote machine learning model is a "leaked" one: through standard API requests to a remote model, extract (or not) a zero-bit watermark, that was inserted to watermark valuable models (eg, large deep neural networks) |  |  |
 | [Practical Black-Box Attacks against Machine Learning](https://dl.acm.org/citation.cfm?id=3053009) | Asia CCS (2017)| Understand how vulnerable is a remote service to adversarial classification attacks |  | Tested against  Amazon and Google classification APIs |
+| [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) | ICLR (2018)| Infer inner hyperparameters (eg number of layers, non-linear activation type) of a remote neural network model by analysing its response patterns to certain inputs |  |  |
 
 ## Related forums and conferences
 * FAT 2018 (Conference on Fairness, Accountability, and Transparency) https://fatconference.org/2018/program.html
