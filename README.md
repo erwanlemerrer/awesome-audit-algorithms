@@ -26,6 +26,7 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [ Adversarial Frontier Stitching for Remote Neural Network Watermarking ](https://arxiv.org/abs/1711.01894) | arXiv (2017) | Check if a remote machine learning model is a "leaked" one: through standard API requests to a remote model, extract (or not) a zero-bit watermark, that was inserted to watermark valuable models (eg, large deep neural networks) |  |  |
 | [Practical Black-Box Attacks against Machine Learning](https://dl.acm.org/citation.cfm?id=3053009) | Asia CCS (2017)| Understand how vulnerable is a remote service to adversarial classification attacks |  | Tested against  Amazon and Google classification APIs |
 | [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) | ICLR (2018)| Infer inner hyperparameters (eg number of layers, non-linear activation type) of a remote neural network model by analysing its response patterns to certain inputs | [Available here](https://github.com/coallaoh/WhitenBlackBox) |  |
+| [Data driven exploratory attacks on black box classifiers in adversarial domains](https://www.sciencedirect.com/science/article/pii/S092523121830136X) | Neurocomputing (2018) | Reverse engineers remote classifier models (e.g., for evading a CAPTCHA test) |  | Tested on Google Cloud Prediction API  |
 
 ## Related forums and conferences
 * FAT 2018 (Conference on Fairness, Accountability, and Transparency) https://fatconference.org/2018/program.html
