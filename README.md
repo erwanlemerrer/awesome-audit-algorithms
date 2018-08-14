@@ -15,6 +15,7 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | Algorithm/paper | Source | Description | Code | Test |
 | --------------- | ------ | ----------- | ---- | ---- |
 | [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) | KDD (2005) | Reverse engineering of remote linear classifiers, using membership queries |  | Experimented (locally) on mail spam classifiers |
+| [Query Strategies for Evading Convex-Inducing Classifiers](http://www.jmlr.org/papers/v13/nelson12a.html) | JMLR (2012) | Evasion methods for convex classifiers. Considers evasion complexity |  |  |
 | [Measuring Personalization of Web Search](https://dl.acm.org/citation.cfm?id=2488435) | WWW (2013) | Develops a methodology for measuring personalization in Web search result |  | Experimented on Google Web Search |
 | [XRay: Enhancing the Web’s Transparency with Differential Correlation](https://www.usenix.org/node/184394) | USENIX Security (2014) | Audits which user profile data were used for targeting a particular ad, recommendation, or price | [ Available here](https://xray.cs.columbia.edu/) | Demonstrated using Gmail, Youtube, and Amazon recommendation services |
 | [Peeking Beneath the Hood of Uber ](https://dl.acm.org/citation.cfm?id=2815681) | IMC (2015) | Infer implementation details of Uber's surge price algorithm |  | Four weeks of data from Uber (from 43  copies  of  the  Uber  app) |
