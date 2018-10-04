@@ -32,6 +32,7 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) | ICLR (2018)| Infer inner hyperparameters (eg number of layers, non-linear activation type) of a remote neural network model by analysing its response patterns to certain inputs | [Available here](https://github.com/coallaoh/WhitenBlackBox) |  |
 | [Data driven exploratory attacks on black box classifiers in adversarial domains](https://www.sciencedirect.com/science/article/pii/S092523121830136X) | Neurocomputing (2018) | Reverse engineers remote classifier models (e.g., for evading a CAPTCHA test) |  | Tested on Google Cloud Prediction API  |
 | [xGEMs: Generating Examplars to Explain Black-Box Models](https://arxiv.org/pdf/1806.08867.pdf) | arXiv (2018) | Searches bias in the black box model by training an unsupervised implicit generative model. Thensummarizes the black-box model behavior quantitatively by perturbing data samples along the data manifold. |  | Tested on Resnet models  |
+| [ Learning Networks from Random Walk-Based Node Similarities](https://arxiv.org/pdf/1801.07386) | arXiv (2018), to appear in NIPS | Reversing graphs by observing some random walk commute times. |  |  |
 
 ## Related forums and conferences
 * FAT 2018 (Conference on Fairness, Accountability, and Transparency) https://fatconference.org/2018/program.html
