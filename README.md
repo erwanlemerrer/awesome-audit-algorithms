@@ -1,4 +1,4 @@
-# Black-box querying algorithms
+https://arxiv.org/abs/1903.00317# Black-box querying algorithms
 
 A reading list of algorithms for getting insights of remote (black-box) services.
 
@@ -36,6 +36,8 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [Identifying the Machine Learning Family from Black-Box Models](https://rd.springer.com/chapter/10.1007/978-3-030-00374-6_6) | CAEPIA (2018) |  Determines which kind of machine learning model is behind the returned predictions. |  |  |
 | [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766.pdf) | arXiv (2018) | ask to what extent can an adversary steal functionality of such "victim" models based solely on blackbox interactions: image in, predictions out. |  |  |
 | [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/pdf/1812.11720.pdf) | arXiv (2018) | Stealing/approximating a model through timing attacks usin queries |  |  |
+| [TamperNN: Efficient Tampering Detection of Deployed Neural Nets](https://arxiv.org/abs/1903.00317) | arXiv (2019) | Algorithms to craft inputs that can detect the tampering with a remotely executed classifier model |  | Tested on classic image classifiers available in KEras |
+
 
 ## Related forums and conferences
 * FAT 2018 (Conference on Fairness, Accountability, and Transparency) https://fatconference.org/2018/program.html
