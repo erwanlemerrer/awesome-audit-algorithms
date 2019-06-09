@@ -37,6 +37,7 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766.pdf) | arXiv (2018) | ask to what extent can an adversary steal functionality of such "victim" models based solely on blackbox interactions: image in, predictions out. |  |  |
 | [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/pdf/1812.11720.pdf) | arXiv (2018) | Stealing/approximating a model through timing attacks usin queries |  |  |
 | [TamperNN: Efficient Tampering Detection of Deployed Neural Nets](https://arxiv.org/abs/1903.00317) | arXiv (2019) | Algorithms to craft inputs that can detect the tampering with a remotely executed classifier model |  | Tested on classic image classifiers available in KEras |
+| [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) | IJCNN (2018) | Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO). | [Available here](https://github.com/jeiks/Stealing_DL_Models) | Tested on three problem domains (facial recognition, general object, and crosswalk classification) and Azure. |
 
 
 ## Related forums and conferences
