@@ -41,9 +41,10 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [Making targeted black-box evasion attacks effective andefficient](https://arxiv.org/pdf/1906.03397.pdf) | arXiv (2019) |  Investigates how an adversary can optimally use its query budget for targeted evasion attacks against deep neural networks. | | Tested on t Google Cloud Vision. |
 | [Online Learning for Measuring Incentive Compatibility in Ad Auctions](https://research.fb.com/wp-content/uploads/2019/05/Online-Learning-for-Measuring-Incentive-Compatibility-in-Ad-Auctions.pdf) | WWW (2019) | Measures the incentive compatible (IC) mechanisms (regret) of black-box auction lpatforms |  |  |
 | [TamperNN: Efficient Tampering Detection of Deployed Neural Nets](https://arxiv.org/abs/1903.00317) | ISSRE (2019) | Algorithms to craft inputs that can detect the tampering with a remotely executed classifier model |  | Tested on classic image classifiers available in Keras |
+| [Neural Network Model Extraction Attacks in Edge Devicesby Hearing Architectural Hints](https://arxiv.org/pdf/1903.03916.pdf) | arxiv (2019) | Through the acquisition of memory access events from bus snooping, layer sequence identification bythe LSTM-CTC model, layer topology connection according to the memory access pattern, and layer dimension estimation under data volume constraints, it  demonstrates one can accurately recover the a similar network architecture as the attack starting point |  | Tested on NVidia hardware |
 
 ## Related forums and conferences
-* FAT 2018 (Conference on Fairness, Accountability, and Transparency) https://fatconference.org/2018/program.html
-* DTL 2017 (Data Transparency Lab Conference) http://datatransparencylab.org/dtl-2017/program-dtl-2017/
+* FAT* (Conference on Fairness, Accountability, and Transparency)
+* DTL 2017 (Data Transparency Lab Conference)
 
-## Page could be updated by adding new references, thanks !
+## Page can be updated by forking/merging for adding new references
