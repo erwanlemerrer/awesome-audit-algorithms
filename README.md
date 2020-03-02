@@ -1,4 +1,4 @@
-# Black-box querying algorithms
+# Black-box querying algorithms / remote audit algorithms
 
 A reading list of algorithms for getting insights of remote (black-box) services.
 
@@ -8,7 +8,7 @@ This page aims at listing algorithms (with a short review) related to the follow
 
 > A user queries a service provider (through available APIs),  and tries to infer information about the algorithms in use for providing the results of those queries.
 
-Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`, `reverse engineering`, `black-box`, `algorithmic accountability`.
+Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`, `reverse engineering`, `black-box`, `algorithmic accountability`,`audit`.
 
 ## List of algorithms
 
@@ -47,7 +47,6 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment](https://dl.acm.org/citation.cfm?id=3354261) | CCS (2019) | Model inversion approach in the adversary setting based on training an inversion model that acts as aninverse of the original model. With no fullknowledge about the original training data, an accurate inversion is still possible by training the inversion model on auxiliary samplesdrawn from a more generic data distribution. |  | Tested on Amazon Rekognition API |
 | [Adversarial Model Extraction on Graph Neural Networks](https://arxiv.org/abs/1912.07721) | AAAI Workshop on Deep Learning on Graphs: Methodologies and Applications (DLGMA) (2020) | Introduces GNN model extraction and presents a preliminary approach for this. |  |  |
 ## Related forums and conferences
-* FAT* (Conference on Fairness, Accountability, and Transparency)
-* DTL 2017 (Data Transparency Lab Conference)
+* [FAT* (Conference on Fairness, Accountability, and Transparency)](https://en.wikipedia.org/wiki/ACM_Conference_on_Fairness,_Accountability,_and_Transparency)
 
 ## Page can be updated by forking/merging for adding new references
