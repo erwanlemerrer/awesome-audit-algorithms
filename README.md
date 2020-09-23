@@ -46,6 +46,8 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [Stealing Knowledge from Protected Deep Neural Networks Using Composite Unlabeled Data](https://ieeexplore.ieee.org/abstract/document/8851798) | ICNN (2019) | Composite  method which  can  be  used  to  attack  and  extract  the  knowledge  ofa black box model even if it completely conceals its softmaxoutput. |  | Tested on NVidia hardware |
 | [Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment](https://dl.acm.org/citation.cfm?id=3354261) | CCS (2019) | Model inversion approach in the adversary setting based on training an inversion model that acts as aninverse of the original model. With no fullknowledge about the original training data, an accurate inversion is still possible by training the inversion model on auxiliary samplesdrawn from a more generic data distribution. |  | Tested on Amazon Rekognition API |
 | [Adversarial Model Extraction on Graph Neural Networks](https://arxiv.org/abs/1912.07721) | AAAI Workshop on Deep Learning on Graphs: Methodologies and Applications (DLGMA) (2020) | Introduces GNN model extraction and presents a preliminary approach for this. |  |  |
+| [Remote Explainability faces the bouncer problem](https://rdcu.be/b6qB4) | Nature Machine Intelligence volume 2, pages529–539 (2020) | Shows the impossibility (with one request) or the difficulty to spot lies on the explanations of a remote AI decision. |  |  |
+
 ## Related forums and conferences
 * [FAT* (Conference on Fairness, Accountability, and Transparency)](https://en.wikipedia.org/wiki/ACM_Conference_on_Fairness,_Accountability,_and_Transparency)
 
