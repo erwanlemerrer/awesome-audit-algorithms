@@ -48,9 +48,11 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [Adversarial Model Extraction on Graph Neural Networks](https://arxiv.org/abs/1912.07721) | AAAI Workshop on Deep Learning on Graphs: Methodologies and Applications (DLGMA) (2020) | Introduces GNN model extraction and presents a preliminary approach for this. |  |  |
 | [Remote Explainability faces the bouncer problem](https://rdcu.be/b6qB4) | Nature Machine Intelligence volume 2, pages529–539 (2020) | Shows the impossibility (with one request) or the difficulty to spot lies on the explanations of a remote AI decision. | [Available here](https://github.com/erwanlemerrer/bouncer_problem) |  |
 | [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) | CVPR (2020) | Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only). | [Available here](https://github.com/thisisalirah/GeoDA) |  |
+| [The Imitation Game: Algorithm Selectionby Exploiting Black-Box Recommender](https://github.com/erwanlemerrer/erwanlemerrer.github.io/raw/master/files/imitation_blackbox_recommenders_netys-2020.pdf) | Netys (2020) | Parametrize a local recommendation algorithm by imitating the decision of a remote and better trained one. | |  |
+
 
 
 ## Related forums and conferences
-* [FAT* (Conference on Fairness, Accountability, and Transparency)](https://en.wikipedia.org/wiki/ACM_Conference_on_Fairness,_Accountability,_and_Transparency)
+* TODO
 
 ## Page can be updated by forking/merging for adding new references
