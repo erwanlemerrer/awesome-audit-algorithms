@@ -48,10 +48,6 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [Remote Explainability faces the bouncer problem](https://rdcu.be/b6qB4) | Nature Machine Intelligence volume 2, pages529–539 (2020) | Shows the impossibility (with one request) or the difficulty to spot lies on the explanations of a remote AI decision. | [Available here](https://github.com/erwanlemerrer/bouncer_problem) |  |
 | [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) | CVPR (2020) | Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only). | [Available here](https://github.com/thisisalirah/GeoDA) |  |
 | [The Imitation Game: Algorithm Selectionby Exploiting Black-Box Recommender](https://github.com/erwanlemerrer/erwanlemerrer.github.io/raw/master/files/imitation_blackbox_recommenders_netys-2020.pdf) | Netys (2020) | Parametrize a local recommendation algorithm by imitating the decision of a remote and better trained one. | |  |
-
-
-
-## Related forums and conferences
-* TODO
+| [Setting the Record Straighter on Shadow Banning](https://arxiv.org/abs/2012.05101) | INFOCOM (2021) | Considers the possibility of shadow banning in Twitter (ie, the moderation black-box algorithm), and measures the probability of several hypothesis. | Code to be released for the conference |  |
 
 ## Page can be updated by forking/merging for adding new references
