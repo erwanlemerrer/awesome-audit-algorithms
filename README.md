@@ -2,10 +2,7 @@
 
 A curated list of audit algorithms for getting insights of black-box algorithms. Star or edit this list, thanks! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<div style="text-align: center">
-<img src="resources/banner.png" atl="banner"/>
-</div>
-
+ <img src="https://github.com/erwanlemerrer/awesome-audit-algorithms/blob/master/resources/audit.png" width="600">
 
 > A user queries a remote algorithm (eg, through available APIs), to infer information about that algorithm.
 
@@ -40,7 +37,8 @@ Related keywords include: `audit`, `transparency`, `inference`, `API`, `queries`
 | [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/pdf/1812.11720.pdf) | arXiv (2018) | Stealing/approximating a model through timing attacks usin queries |  |  |
 | [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) | IJCNN (2018) | Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO). | [Available here](https://github.com/jeiks/Stealing_DL_Models) | Tested on three problem domains (facial recognition, general object, and crosswalk classification) and Azure. |
 | [Data driven exploratory attacks on black box classifiers in adversarial domains](https://www.sciencedirect.com/science/article/pii/S092523121830136X) | Neurocomputing (2018) | An explore-exploit framework to assess the vulnerabilities of black-box classifiers | | Tested on few security datasetson the Google Cloud platform. |
-| [Making targeted black-box evasion attacks effective andefficient](https://arxiv.org/pdf/1906.03397.pdf) | arXiv (2019) |  Investigates how an adversary can optimally use its query budget for targeted evasion attacks against deep neural networks. | | Tested on t Google Cloud Vision. |
+| [Opening Up the Black Box:Auditing Google’s Top Stories Algorithm](https://par.nsf.gov/servlets/purl/10101277) | Flairs-32 (2019) | Audit of the Google’s Top stories panel that pro-vides insights into its algorithmic choices for selectingand ranking news publisher  | | Tested on Google's Top Stories. |
+| [Making targeted black-box evasion attacks effective andefficient](https://arxiv.org/pdf/1906.03397.pdf) | arXiv (2019) |  Investigates how an adversary can optimally use its query budget for targeted evasion attacks against deep neural networks. | | Tested on Google Cloud Vision. |
 | [Online Learning for Measuring Incentive Compatibility in Ad Auctions](https://research.fb.com/wp-content/uploads/2019/05/Online-Learning-for-Measuring-Incentive-Compatibility-in-Ad-Auctions.pdf) | WWW (2019) | Measures the incentive compatible (IC) mechanisms (regret) of black-box auction lpatforms |  |  |
 | [TamperNN: Efficient Tampering Detection of Deployed Neural Nets](https://arxiv.org/abs/1903.00317) | ISSRE (2019) | Algorithms to craft inputs that can detect the tampering with a remotely executed classifier model |  | Tested on classic image classifiers available in Keras |
 | [Neural Network Model Extraction Attacks in Edge Devicesby Hearing Architectural Hints](https://arxiv.org/pdf/1903.03916.pdf) | arxiv (2019) | Through the acquisition of memory access events from bus snooping, layer sequence identification bythe LSTM-CTC model, layer topology connection according to the memory access pattern, and layer dimension estimation under data volume constraints, it  demonstrates one can accurately recover the a similar network architecture as the attack starting point |  | |
