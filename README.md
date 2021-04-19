@@ -2,7 +2,7 @@
 
 A curated list of audit algorithms for getting insights of black-box algorithms.
 
- <img src="https://github.com/erwanlemerrer/awesome-audit-algorithms/blob/master/resources/audit.png" width="600" alt="banner" class="center">
+ <img src="https://github.com/erwanlemerrer/awesome-audit-algorithms/blob/main/resources/audit.png" width="600" alt="banner" class="center">
 
 > A user queries a remote algorithm (eg, through available APIs), to infer information about that algorithm.
 
