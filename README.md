@@ -1,15 +1,15 @@
-# Black-box querying algorithms / remote audit algorithms
+# Awesome audit algorithms
 
-A reading list of algorithms for getting insights of remote (black-box) services.
+A curated list of audit algorithms for getting insights of black-box algorithms. Star or edit this list, thanks! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ----------
 
 
-> A user queries a service provider (through available APIs),  and tries to infer information about the algorithms in use for providing the results of those queries.
+> A user queries a remote algorithm (eg, through available APIs), to infer information about that algorithm.
 
-Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`, `reverse engineering`, `black-box`, `algorithmic accountability`,`audit`.
+Related keywords include: `audit`, `transparency`, `inference`, `API`, `queries`, `reverse engineering`, `black-box`, `algorithmic accountability`.
 
-## List of algorithms
+## Papers
 
 | Algorithm/paper | Source | Description | Code | Test |
 | --------------- | ------ | ----------- | ---- | ---- |
@@ -51,4 +51,3 @@ Related keywords include: `transparency`, `bias`, `inference`, `API`, `queries`,
 | [Auditing Algorithms:  On Lessons Learned and the Risks of DataMinimization](https://dl.acm.org/doi/pdf/10.1145/3375627.3375852) | AIES (2020) | A practical audit for a well-being   recommendation   app developed   by Telefónica (mostly on bias). |  |  |
 | [Setting the Record Straighter on Shadow Banning](https://arxiv.org/abs/2012.05101) | INFOCOM (2021) | Considers the possibility of shadow banning in Twitter (ie, the moderation black-box algorithm), and measures the probability of several hypothesis. | Code to be released for the conference |  |
 
-## Page can be updated by forking/merging for adding new references
