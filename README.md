@@ -6,7 +6,12 @@ A curated list of audit algorithms for getting insights from black-box algorithm
 
 > A user queries a remote algorithm (eg, through available APIs), to infer information about that algorithm.
 
-Related keywords: `audit`,  `black-box`, `inference`, `API`, `reverse engineering`.
+Table of contents
+=================
+
+<!--ts-->
+   * [Papers](#papers)
+<!--te-->
 
 ## Papers
 
@@ -16,7 +21,7 @@ Related keywords: `audit`,  `black-box`, `inference`, `API`, `reverse engineerin
 | [Privacy Oracle: a System for Finding Application Leakswith Black Box Differential Testing](https://dl.acm.org/citation.cfm?id=1455806) | CCS (2008) |  Privacy Oracle: a system that uncovers appli-cations’ leaks of personal information in transmissions to remoteservers. |  | Experimented on evaluated 26 popular applications |
 | [Query Strategies for Evading Convex-Inducing Classifiers](http://www.jmlr.org/papers/v13/nelson12a.html) | JMLR (2012) | Evasion methods for convex classifiers. Considers evasion complexity |  |  |
 | [Measuring Personalization of Web Search](https://dl.acm.org/citation.cfm?id=2488435) | WWW (2013) | Develops a methodology for measuring personalization in Web search result |  | Experimented on Google Web Search |
-| [XRay: Enhancing the Web’s Transparency with Differential Correlation](https://www.usenix.org/node/184394) | USENIX Security (2014) | Audits which user profile data were used for targeting a particular ad, recommendation, or price | [ Available here](https://xray.cs.columbia.edu/) | Demonstrated using Gmail, Youtube, and Amazon recommendation services |
+| [XRay: Enhancing the Web’s Transparency with Differential Correlation](https://www.usenix.org/node/184394) | USENIX Security (2014) | Audits which user profile data were used for targeting a particular ad, recommendation, or price | [ Available here](https://xray.cs.columbia.edu/) | Demonstrated using Gmail, YouTube, and Amazon recommendation services |
 | [Peeking Beneath the Hood of Uber ](https://dl.acm.org/citation.cfm?id=2815681) | IMC (2015) | Infer implementation details of Uber's surge price algorithm |  | Four weeks of data from Uber (from 43  copies  of  the  Uber  app) |
 | [Bias in Online Freelance Marketplaces: Evidence from TaskRabbit](http://datworkshop.org/papers/dat16-final22.pdf) | dat workshop (2016) | Measures the TaskRabbit’s search algorithm rank |  | Crawled TaskRabbit website |
 | [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) | Usenix Security (2016) | Aims at extracting machine learning models in use by remote services | [Available here](https://github.com/ftramer/Steal-ML) | Demonstrated on BigMl and Amazon Machine Learning services |
@@ -24,7 +29,7 @@ Related keywords: `audit`,  `black-box`, `inference`, `API`, `reverse engineerin
 | [Back in Black: Towards Formal, Black Box Analysis of Sanitizers and Filters](http://ieeexplore.ieee.org/document/7546497/) | Security and Privacy (2016) | Black-box analysis of  sanitizers  and  filters |  |  |
 | [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) | Security and Privacy (2016) | Introduces measures that  capture  the  degree  of  influence  of  inputs  on  outputs  of the observed system |  | Tested inhouse on machine learning models on two datasets |
 | [ Uncovering Influence Cookbooks : Reverse Engineering the Topological Impact in Peer Ranking Services](https://dl.acm.org/authorize.cfm?key=N21772) | CSCW (2017) | Aims at identifying which centrality metrics are in use in a peer ranking service |  |  |
-| [ The topological face of recommendation: models and application to bias detection](https://arxiv.org/abs/1704.08991) | Complex Networks (2017)| Proposes a bias detection framework for items recommended to users |  | Tested on Youtube crawls |
+| [ The topological face of recommendation: models and application to bias detection](https://arxiv.org/abs/1704.08991) | Complex Networks (2017)| Proposes a bias detection framework for items recommended to users |  | Tested on YouTube crawls |
 | [ Membership Inference Attacks Against Machine Learning Models ](http://ieeexplore.ieee.org/document/7958568/) | Symposium on Security and Privacy (2017) | Given  a  machine  learning model and a record, determine whether this record was used as part of the model’s training dataset or not |  | Tested using Amazon ML and Google Prediction API |
 | [ Adversarial Frontier Stitching for Remote Neural Network Watermarking ](https://arxiv.org/abs/1711.01894) | Neural Computing and Applications (2019) | Check if a remote machine learning model is a "leaked" one: through standard API requests to a remote model, extract (or not) a zero-bit watermark, that was inserted to watermark valuable models (eg, large deep neural networks) | Alternative implementation [available here](https://github.com/dunky11/adversarial-frontier-stitching) |  |
 | [Practical Black-Box Attacks against Machine Learning](https://dl.acm.org/citation.cfm?id=3053009) | Asia CCS (2017)| Understand how vulnerable is a remote service to adversarial classification attacks |  | Tested against  Amazon and Google classification APIs |
@@ -36,7 +41,6 @@ Related keywords: `audit`,  `black-box`, `inference`, `API`, `reverse engineerin
 | [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766.pdf) | CVPR (2019) | ask to what extent can an adversary steal functionality of such "victim" models based solely on blackbox interactions: image in, predictions out. |  |  |
 | [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/pdf/1812.11720.pdf) | arXiv (2018) | Stealing/approximating a model through timing attacks usin queries |  |  |
 | [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) | IJCNN (2018) | Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO). | [Available here](https://github.com/jeiks/Stealing_DL_Models) | Tested on three problem domains (facial recognition, general object, and crosswalk classification) and Azure. |
-| [Data driven exploratory attacks on black box classifiers in adversarial domains](https://www.sciencedirect.com/science/article/pii/S092523121830136X) | Neurocomputing (2018) | An explore-exploit framework to assess the vulnerabilities of black-box classifiers | | Tested on few security datasetson the Google Cloud platform. |
 | [Auditing the Personalization and Composition ofPolitically-Related Search Engine Results Pages](https://dl.acm.org/doi/10.1145/3178876.3186143) | WWW (2018) |  A Chrome extension to survey participants and collect the Search Engine Results Pages (SERPs) and autocomplete suggestions, for studying personalization and composition. | | Tested on Google search. |
 | [Opening Up the Black Box:Auditing Google’s Top Stories Algorithm](https://par.nsf.gov/servlets/purl/10101277) | Flairs-32 (2019) | Audit of the Google’s Top stories panel that pro-vides insights into its algorithmic choices for selectingand ranking news publisher  | | Tested on Google's Top Stories. |
 | [Making targeted black-box evasion attacks effective andefficient](https://arxiv.org/pdf/1906.03397.pdf) | arXiv (2019) |  Investigates how an adversary can optimally use its query budget for targeted evasion attacks against deep neural networks. | | Tested on Google Cloud Vision. |
