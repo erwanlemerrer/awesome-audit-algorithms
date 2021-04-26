@@ -1,14 +1,13 @@
-# Awesome audit algorithms [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome audit algorithms [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+==========================
 
 A curated list of audit algorithms for getting insights from black-box algorithms.
 
- <img src="https://github.com/erwanlemerrer/awesome-audit-algorithms/blob/main/resources/audit.png" width="600" alt="banner" class="center">
+<img src="https://github.com/erwanlemerrer/awesome-audit-algorithms/blob/main/resources/audit.png" width="600" alt="banner" class="center">
 
 > A user queries a remote algorithm (eg, through available APIs), to infer information about that algorithm.
 
-Table of contents
-=================
-
+## Table of contents
 <!--ts-->
    * [Papers](#papers)
 <!--te-->
