@@ -1,6 +1,7 @@
 # Awesome Audit Algorithms [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of audit algorithms for getting insights from black-box algorithms.
+A curated list of algorithms for auditing black-box algorithms. 
+Nowadays, many algorithms (recommendation, scoring, classification, ...) are operated at third party providers, without users or institutions having any insights on how they operate on their data. Audit algorithms in this list thus apply to this setup, coined the "black-box" setup, where one auditor wants to get some insight on these remote algorithms.
 
 <img src="https://github.com/erwanlemerrer/awesome-audit-algorithms/blob/main/resources/audit.png" width="600" alt="banner" class="center">
 
