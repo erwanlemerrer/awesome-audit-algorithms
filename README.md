@@ -23,7 +23,7 @@ Nowadays, many algorithms (recommendation, scoring, classification, ...) are ope
 - [Auditing Algorithms:  On Lessons Learned and the Risks of DataMinimization](https://dl.acm.org/doi/pdf/10.1145/3375627.3375852) (AIES)   
 - [Extracting Training Data from Large Language Models](https://arxiv.org/pdf/2012.07805) (arxiv)   
 ### 2019
-- [Adversarial Frontier Stitching for Remote Neural Network Watermarking](https://arxiv.org/abs/1711.01894) (Neural Computing and Applications)  Alternative implementation [(Code)](https://github.com/dunky11/adversarial-frontier-stitching)
+- [Adversarial Frontier Stitching for Remote Neural Network Watermarking](https://arxiv.org/abs/1711.01894) (Neural Computing and Applications)  [(Alternative implementation)](https://github.com/dunky11/adversarial-frontier-stitching)
 - [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766.pdf) (CVPR)   
 - [Opening Up the Black Box:Auditing Google's Top Stories Algorithm](https://par.nsf.gov/servlets/purl/10101277) (Flairs-32)  
 - [Making targeted black-box evasion attacks effective andefficient](https://arxiv.org/pdf/1906.03397.pdf) (arXiv)  
@@ -64,4 +64,3 @@ Nowadays, many algorithms (recommendation, scoring, classification, ...) are ope
 - [Privacy Oracle: a System for Finding Application Leakswith Black Box Differential Testing](https://dl.acm.org/citation.cfm?id=1455806) (CCS)   
 ### 2005
 - [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) (KDD)
-
