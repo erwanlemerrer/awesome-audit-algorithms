@@ -13,8 +13,11 @@ Nowadays, many algorithms (recommendation, scoring, classification, ...) are ope
 ## Papers
 ### 2021
 - [Setting the Record Straighter on Shadow Banning](https://arxiv.org/abs/2012.05101) (INFOCOM)  [(Code)](https://gitlab.enseeiht.fr/bmorgan/infocom-2021)
-- [FairLens: Auditing black-box clinical decision support systems](https://www.sciencedirect.com/science/article/pii/S030645732100145X?casa_token=oyjFKij269MAAAAA:w_ohScpMPNMnkDdzBqAIod5QfBgQlq5Ht9mMRSOydZpOgNG-i1yuqEmBjWN__38gOGmjNL7dVT0) (Information Processing & Management)   
+- [FairLens: Auditing black-box clinical decision support systems](https://www.sciencedirect.com/science/article/pii/S030645732100145X?casa_token=oyjFKij269MAAAAA:w_ohScpMPNMnkDdzBqAIod5QfBgQlq5Ht9mMRSOydZpOgNG-i1yuqEmBjWN__38gOGmjNL7dVT0) (Information Processing & Management)
+- [Auditing Algorithmic Bias on Twitter](https://dl.acm.org/doi/abs/10.1145/3447535.3462491) (WebSci)
+- [FairLens: Auditing black-box clinical decision support systems](https://www.sciencedirect.com/science/article/pii/S030645732100145X) (Information Processing & Management)
 ### 2020
+- [Auditing radicalization pathways on YouTube](https://dl.acm.org/doi/pdf/10.1145/3351095.3372879) (FAT*)
 - [Adversarial Model Extraction on Graph Neural Networks](https://arxiv.org/abs/1912.07721) (AAAI Workshop on Deep Learning on Graphs: Methodologies and Applications)   
 - [Remote Explainability faces the bouncer problem](https://rdcu.be/b6qB4) (Nature Machine Intelligence volume 2, pages529–539)  [(Code)](https://github.com/erwanlemerrer/bouncer_problem)
 - [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) (CVPR)  [(Code)](https://github.com/thisisalirah/GeoDA)
