@@ -1,9 +1,9 @@
 # Contributing Guideline
 
-* Use the following format: '| [paper title](url) | conference acronym  (year) | short description of the audit | code url if available  | whether it is tested on a real remote algorithm |'.
+* Use the following format: '[Paper title](url of the pdf) - (conference acronym) (url of attached code if it exists) *short description of the audit*'
 * Please only provide publicly accessible url for papers (no paywall).
 * Place your entry in the list based on its year of publication (list ranked by year).
-* Commits should follow the pattern: `Added paper: <paper title>`.
+* Commits should follow the pattern: 'Added paper: <paper title>'.
 * Add only one thing per commit.
 * New suggestions of improvement are always welcome.
 * The pull request and commit should have a useful title.
