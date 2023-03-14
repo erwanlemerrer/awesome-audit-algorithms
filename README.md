@@ -73,6 +73,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 - [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) - (Security and Privacy) *Introduces measures that capture the degree of influence of inputs on outputs of the observed system.*
 - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace](https://mislove.org/publications/Amazon-WWW.pdf) - (WWW) [(Code)](http://personalization.ccs.neu.edu) *Develops a methodology for detecting algorithmic pricing, and use it empirically to analyze their prevalence and behavior on Amazon Marketplace.*
 ### 2015
+- [Certifying and Removing Disparate Impact](https://arxiv.org/abs/1412.3756) - (SIGKDD) *Proposes SVM-based methods to certify absence of bias and methods to remove biases from a dataset.*
 - [Peeking Beneath the Hood of Uber](https://dl.acm.org/citation.cfm?id=2815681) - (IMC) *Infer implementation details of Uber's surge price algorithm.*
 ### 2014
 - [XRay: Enhancing the Web's Transparency with Differential Correlation](https://www.usenix.org/node/184394) - (USENIX Security) *Audits which user profile data were used for targeting a particular ad, recommendation, or price.*
