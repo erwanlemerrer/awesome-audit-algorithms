@@ -76,6 +76,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 - [Certifying and Removing Disparate Impact](https://arxiv.org/abs/1412.3756) - (SIGKDD) *Proposes SVM-based methods to certify absence of bias and methods to remove biases from a dataset.*
 - [Peeking Beneath the Hood of Uber](https://dl.acm.org/citation.cfm?id=2815681) - (IMC) *Infer implementation details of Uber's surge price algorithm.*
 ### 2014
+- [A peek into the black box: exploring classifiers by randomization]() - (Data Mining and Knowledge Discovery journal) ([code](https://github.com/tsabsch/goldeneye)) *Finds groups of features that can be permuted without changing the output label of predicted samples*
 - [XRay: Enhancing the Web's Transparency with Differential Correlation](https://www.usenix.org/node/184394) - (USENIX Security) *Audits which user profile data were used for targeting a particular ad, recommendation, or price.*
 ### 2013
 - [Measuring Personalization of Web Search](https://dl.acm.org/citation.cfm?id=2488435) - (WWW) *Develops a methodology for measuring personalization in Web search result.*
