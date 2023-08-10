@@ -13,6 +13,8 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ## Papers
 ### 2023
+- [Auditing Yelp’s Business Ranking and Review Recommendation Through the Lens of Fairness](https://arxiv.org/pdf/2308.02129.pdf) - (Arxiv) *Audits the fairness of Yelp’s business
+ranking and review recommendation systems, with demographic parity, exposure, and statistical tests such as quantile linear and logistic regression.*
 - [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/pdf?id=iIfDQVyuFD) - (ICLR) *Proposes fair decision tree learning algorithms along with zero-knowledge proof protocols to obtain a proof of fairness on the audited server.*
 - [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://arxiv.org/pdf/2302.03251.pdf) - (ICLR) *Considers backdoor detection under the black-box setting in machine learning as a service (MLaaS) applications.*
 ### 2022
