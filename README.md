@@ -13,6 +13,8 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ## Papers
 ### 2024
+- [Fairness Auditing with Multi-Agent Collaboration](https://arxiv.org/pdf/2402.08522) - (ECAI) *Considers multiple
+agents working together, each auditing the same platform for different tasks.*
 - [Mapping the Field of Algorithm Auditing: A Systematic Literature Review
 Identifying Research Trends, Linguistic and Geographical Disparities](https://arxiv.org/pdf/2401.11194) - (Arxiv) *Systematic review of algorithm
 auditing studies and identification of trends in their methodological approaches.*
