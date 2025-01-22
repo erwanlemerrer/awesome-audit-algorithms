@@ -125,6 +125,9 @@ ranking and review recommendation systems, with demographic parity, exposure, an
 
 ## Related Events
 
+### 2025
+* [AAAI workshop on AI Governance: Alignment, Morality, and Law](https://aaai.org/conference/aaai/aaai-25/workshop-list/#ws06)
+
 ### 2024
 * [1st International Conference on Auditing and Artificial Intelligence](https://www.ircg.msm.uni-due.de/ai/)
 * [Regulatable ML Workshop (RegML'24)](https://regulatableml.github.io/)
