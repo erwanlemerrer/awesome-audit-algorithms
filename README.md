@@ -7,13 +7,17 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 > A user queries a remote algorithm (eg, through available APIs), to infer information about that algorithm.
 
+## UPDATE
+slow/no update: superseded by current technology...
+
 ## Contents
 - [Papers](#papers)
 - [Related Events (conferences/workshops)](#related-events)
 
 ## Papers
 
-### 2026
+### 2026 
+- [The Fair Game: Auditing & debiasing AI algorithms over time](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/fair-game-auditing-debiasing-ai-algorithms-over-time/9E8408C67F7CE30505122DD1586D9FA2) - Jouarnal of Cambridge Forum on AI: Law and Governance
 - [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](https://arxiv.org/pdf/2507.20708) - (arXiv)
 
 ### 2025
